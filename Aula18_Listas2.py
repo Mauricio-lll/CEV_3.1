@@ -1,0 +1,1 @@
+# () Tupla - [] Lista - {} Dicionário
